@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/splash.png</file>
+        <file>res/woodbutton.png</file>
+        <file>res/woodbackground.png</file>
+    </qresource>
+</RCC>

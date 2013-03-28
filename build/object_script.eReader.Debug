@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\ereader.o
+./debug\imageSytele.o
+./debug\explore.o
+./debug\myedittext.o
+./debug\bookmarkbrowser.o
+./debug\moc_ereader.o
+./debug\moc_imageSytele.o
+./debug\moc_explore.o
+./debug\moc_myedittext.o
+./debug\moc_bookmarkbrowser.o
+./debug\qrc_res.o
+);
